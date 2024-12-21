@@ -6,7 +6,7 @@ Partendo dall'esercizio di ieri e dall'array di posts allegato, l'obiettivo è c
 I dati relativi a ciascun post dovranno essere passati come props ai componenti. ✅
 
 **Milestone 2**
-Ogni post ha una proprietà **published**, e gli articoli devono essere mostrati solo se questa proprietà è impostata su `true`.
+Ogni post ha una proprietà **published**, e gli articoli devono essere mostrati solo se questa proprietà è impostata su `true`. ✅
 
 **Milestone 3**
 Assegnate colori diversi ai tag dei posts, ad esempio: verde per html, rosa per css, etc…
