@@ -27,3 +27,19 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.html {
+  background-color: yellow!important;
+}
+
+.css {
+  background-color: orange!important;
+}
+
+.js {
+  background-color: violet!important;
+}
+
+.php {
+  background-color: green!important;
+}
