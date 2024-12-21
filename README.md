@@ -3,7 +3,7 @@
 
 **Milestone 1**
 Partendo dall'esercizio di ieri e dall'array di posts allegato, l'obiettivo è creare dinamicamente gli articoli all'interno della pagina.
-I dati relativi a ciascun post dovranno essere passati come props ai componenti.
+I dati relativi a ciascun post dovranno essere passati come props ai componenti. ✅
 
 **Milestone 2**
 Ogni post ha una proprietà **published**, e gli articoli devono essere mostrati solo se questa proprietà è impostata su `true`.
