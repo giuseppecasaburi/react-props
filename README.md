@@ -18,6 +18,6 @@ Se un post non ha un'immagine, inserite un'immagine di default, potete utilizzar
 
 Oppure scaricate l'immagine placeholder in locale
 
-**BONUS**
+**BONUS** ✅
 Aggiungi una sezione nella pagina in cui mostrare la lista dei tag distinti senza ripetizioni.
 *Buon lavoro!✅*
